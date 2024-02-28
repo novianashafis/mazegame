@@ -14,3 +14,4 @@ enemy.png      | File gambar musuh
 finish.png     | File gambar bendera
 
 New Information...
+Dan Informasi Baru lainnya
