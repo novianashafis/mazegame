@@ -12,3 +12,5 @@ wall.png       | File gambar dinding
 endlayer.png   | File gambar layar terakhir
 enemy.png      | File gambar musuh
 finish.png     | File gambar bendera
+
+New Information...
