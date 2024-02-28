@@ -1,3 +1,4 @@
+#game by Hafis Novianas
 from pygame import *
 
 BLUE=(220,220,220)
