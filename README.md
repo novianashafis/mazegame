@@ -1,2 +1,2 @@
 # mazegame
-Game
+Game ini dibuat menggunakan Python
